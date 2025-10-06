@@ -265,7 +265,7 @@ footer {
 }
 
 @media(max-width:768px){
-  .header .container {
+  .header .container1, .header .container2,.header .container3 {
     flex-direction: column;
   }
   
@@ -279,4 +279,5 @@ footer {
     flex-direction: column;
     align-items: center;
   }
+
 }
